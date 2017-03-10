@@ -1,0 +1,11 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background: #000000;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: monospace;
+}

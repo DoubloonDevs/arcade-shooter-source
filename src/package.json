@@ -1,0 +1,18 @@
+{
+  "main": "load.html",
+  "name": "Notepad",
+  "version": "0.0.1",
+  "keywords": [
+    "demo",
+    "node-webkit"
+  ],
+  "window": {
+    "title": "Notepad",
+    //"icon": "img/spr_player.png",
+    "toolbar": false,
+    "resizable": false,
+    "width": 576,
+    "height": 1024,
+    "position": "center"
+  }
+}
